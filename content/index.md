@@ -1,35 +1,4 @@
----
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
-featuredLinks:
-  gettingStarted:
-    - /get-started/quickstart/set-up-git
-    - /github/authenticating-to-github/connecting-to-github-with-ssh
-    - /repositories/creating-and-managing-repositories
-    - /github/writing-on-github/basic-writing-and-formatting-syntax
-  popular:
-    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-    - /authentication
-    - /get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
-    - /get-started/getting-started-with-git/managing-remote-repositories
-    - /pages
-redirect_from:
-  - /github
-  - /articles
-  - /common-issues-and-questions
-  - /troubleshooting-common-issues
-  - /early-access/github/enforcing-best-practices-with-github-policies
-  - /github/enforcing-best-practices-with-github-policies/index
-  - /early-access/github/enforcing-best-practices-with-github-policies/about-github-policies
-  - /github/enforcing-best-practices-with-github-policies/about-github-policies
-  - /early-access/github/enforcing-best-practices-with-github-policies/constraints
-  - /github/enforcing-best-practices-with-github-policies/constraints
-  - /early-access/github/enforcing-best-practices-with-github-policies/contexts
-  - /github/enforcing-best-practices-with-github-policies/contexts
-  - /early-access/github/enforcing-best-practices-with-github-policies/expressions
-  - /github/enforcing-best-practices-with-github-policies/expressions
-  - /early-access/github/enforcing-best-practices-with-github-policies/getting-started
-  - /early-access/github/enforcing-best-practices-with-github-policies/github-policies-vision
-  - /github/enforcing-best-practices-with-github-policies/github-policies-vision
+b/enforcing-best-practices-with-github-policies/github-policies-vision
   - /early-access/github/enforcing-best-practices-with-github-policies/onboarding
   - /github/enforcing-best-practices-with-github-policies/onboarding
   - /early-access/github/enforcing-best-practices-with-github-policies/overview
@@ -44,38 +13,15 @@ redirect_from:
   - /github/enforcing-best-practices-with-github-policies/syntax
 versions: '*'
 children:
-  - search
+  - 
   - get-started
-  - account-and-profile
-  - authentication
-  - repositories
-  - admin
-  - billing
-  - site-policy
-  - organizations
-  - code-security
-  - pull-requests
-  - issues
-  - actions
-  - copilot
-  - codespaces
-  - packages
-  - search-github
-  - developers
-  - rest
-  - graphql
-  - github-cli
-  - discussions
-  - sponsors
-  - communities
-  - pages
-  - education
-  - desktop
+  - accounmm-profile
+  - 
   - early-access
   - support
 childGroups:
   - name: Get started
-    octicon: RocketIcon
+    octicon: 
     children:
       - get-started
       - account-and-profile
@@ -83,7 +29,7 @@ childGroups:
       - billing
       - site-policy
   - name: Collaborative coding
-    octicon: CommentDiscussionIcon
+    octicon: 
     children:
       - codespaces
       - repositories
@@ -97,14 +43,14 @@ childGroups:
       - packages
       - pages
   - name: Security
-    octicon: ShieldLockIcon
+    octicon: 
     children:
       - code-security
-      - code-security/supply-chain-security
-      - code-security/security-advisories
+      
+      -
       - code-security/dependabot
-      - code-security/code-scanning
-      - code-security/secret-scanning
+   
+     
   - name: Client apps
     octicon: DeviceMobileIcon
     children:
@@ -153,6 +99,6 @@ externalProducts:
     id: npm
     name: npm
     href: 'https://docs.npmjs.com/'
-    external: true
+    external: cancel
 ---
 
